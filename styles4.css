@@ -1,0 +1,289 @@
+.container{
+    margin-top: 50px;
+    height: 1000px;
+    width: 200px;
+}
+.imagenes{
+    margin-top: 20px;
+    height: 350px;
+    width: auto;
+    border-color: black;
+    border-width: 5px;
+    border-style: solid;
+}
+
+h1{
+    color: black;
+    padding-bottom: 5px;
+    font-family: "Dancing Script", cursive;
+    font-size: 40px;
+    font-optical-sizing: auto;
+    font-style: normal;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+body{
+    background-image: url(/imagenes/wallpaper.jpg);
+    background-attachment: fixed;
+    
+}
+
+
+#letra{
+    margin-left: 100px;
+    margin-top: -950px;
+    color: black;
+    padding-bottom: 5px;
+    font-family: "Dancing Script", cursive;
+    font-size: 40px;
+    font-optical-sizing: auto;
+    font-style: normal;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: #f0f0f0; 
+    border-radius: black 10px; 
+    border-bottom: 5px solid black;
+    padding: 20px; 
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); 
+
+    
+}
+#letra1{
+    margin-left: 100px;
+    margin-top: 160px;
+    color: black;
+    padding-bottom: 5px;
+    font-family: "Dancing Script", cursive;
+    font-size: 40px;
+    font-optical-sizing: auto;
+    font-style: normal;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: #f0f0f0; 
+    border-radius: black 10px; 
+    border-bottom: 5px solid black;
+    padding: 20px; 
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); 
+}
+#letra2{
+    margin-left: 100px;
+    margin-top: 180px;
+    color: black;
+    padding-bottom: 5px;
+    font-family: "Dancing Script", cursive;
+    font-size: 40px;
+    font-optical-sizing: auto;
+    font-style: normal;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: #f0f0f0; 
+    border-radius: black 10px; 
+    border-bottom: 5px solid black;
+    padding: 20px; 
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); 
+    
+}
+
+#letra3{
+    margin-left: 100px;
+    margin-top: 150px;
+    color: black;
+    padding-bottom: 5px;
+    font-family: "Dancing Script", cursive;
+    font-size: 40px;
+    font-optical-sizing: auto;
+    font-style: normal;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: #f0f0f0; 
+    border-radius: black 10px; 
+    border-bottom: 5px solid black;
+    padding: 20px; 
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); 
+}
+#letra4{
+    margin-left: 100px;
+    margin-top: 180px;
+    color: black;
+    padding-bottom: 5px;
+    font-family: "Dancing Script", cursive;
+    font-size: 40px;
+    font-optical-sizing: auto;
+    font-style: normal;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: #f0f0f0; 
+    border-radius: black 10px; 
+    border-bottom: 5px solid black;
+    padding: 20px; 
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); 
+}
+
+#letra5{
+    margin-left: 150px;
+    margin-top: 180px;
+    color: black;
+    padding-bottom: 5px;
+    font-family: "Dancing Script", cursive;
+    font-size: 40px;
+    font-optical-sizing: auto;
+    font-style: normal;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: #f0f0f0; 
+    border-radius: black 10px; 
+    border-bottom: 5px solid black;
+    padding: 20px; 
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); 
+}
+
+
+#texto1{
+    color: black;
+    padding-bottom: 5px;
+    font-family: "Dancing Script", cursive;
+    font-size:xx-large;
+    font-optical-sizing: auto;
+    font-style: normal;
+    margin-left: 300px;
+}
+#texto2{
+    color: black;
+    padding-bottom: 5px;
+    font-family: "Dancing Script", cursive;
+    font-size:xx-large;
+    font-optical-sizing: auto;
+    font-style: normal;
+    margin-left: 450px;
+
+}
+#texto3{
+    color: black;
+    padding-bottom: 5px;
+    font-family: "Dancing Script", cursive;
+    font-size:xx-large;
+    font-optical-sizing: auto;
+    font-style: normal;
+    margin-left: 400px;
+}
+#texto4{
+
+    color: black;
+    padding-bottom: 5px;
+    font-family: "Dancing Script", cursive;
+    font-size:xx-large;
+    font-optical-sizing: auto;
+    font-style: normal;
+    margin-left: 350px;
+}
+#texto5{
+    color: black;
+    padding-bottom: 5px;
+    font-family: "Dancing Script", cursive;
+    font-size:xx-large;
+    font-optical-sizing: auto;
+    font-style: normal;
+    margin-left: 350px;
+
+}
+
+#texto6{
+    color: black;
+    padding-bottom: 5px;
+    font-family: "Dancing Script", cursive;
+    font-size:xx-large;
+    font-optical-sizing: auto;
+    font-style: normal;
+    margin-left: 450px;
+}
+
+#boton{
+    width: 50px;
+    height: 50px;
+}
+#letra14{
+    margin-left: 100px;
+    margin-top: 55px;
+    color: black;
+    padding-bottom: 5px;
+    font-family: "Dancing Script", cursive;
+    font-size: 40px;
+    font-optical-sizing: auto;
+    font-style: normal;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: #f0f0f0; 
+    border-radius: black 10px; 
+    border-bottom: 5px solid black;
+    padding: 20px; 
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); 
+}
+
+#texto16{
+    color: black;
+    padding-bottom: 5px;
+    font-family: "Dancing Script", cursive;
+    font-size:xx-large;
+    font-optical-sizing: auto;
+    font-style: normal;
+    margin-left: 850px;
+}
+
+#finaly{
+    margin-top: 400px;
+    color: black;
+    padding-bottom: 5px;
+    font-family: "Dancing Script", cursive;
+    font-size:xx-large;
+    font-optical-sizing: auto;
+    font-style: normal;
+    margin-left: 50px;
+    border-color:burlywood;
+    border-width: 10px;
+    border-style: solid;
+}
+
+.imagenesfoot{
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+    margin-left: 150px;
+    width: 80px;
+    height: 80px;
+}
+
+footer{
+      margin-top: 800px;
+      border-color: black;
+      border-width: 5px;
+      border-style: solid;
+    
+}
+#letra125{
+    margin-left: 700px;
+    margin-top: 180px;
+    color: black;
+    padding-bottom: 5px;
+    font-family: "Dancing Script", cursive;
+    font-size: 40px;
+    font-optical-sizing: auto;
+    font-style: normal;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: #f0f0f0; 
+    border-radius: black 10px; 
+    border-bottom: 5px solid black;
+    padding: 20px; 
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); 
+}
+
+

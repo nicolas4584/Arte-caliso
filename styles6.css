@@ -1,0 +1,75 @@
+
+h1{
+    color: white;
+    background-color: black;
+    padding-bottom: 5px;
+    font-family: "Dancing Script", cursive;
+    font-size: 40px;
+    font-optical-sizing: auto;
+    font-style: normal;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+body{
+    background-image: url(/adrianna-geo-1rBg5YSi00c-unsplash.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.imagenes{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 2155px;
+    margin-left: 500px;
+    height: 1000px;
+    width: 500px;
+}
+.imagenes img{
+    margin-bottom: 20px;
+    border-color: white;
+    border-width: 5px ;
+    border-style: solid;
+}
+h2{
+    margin-top: 180px;
+    color: black;
+    padding-bottom: 5px;
+    font-family: "Dancing Script", cursive;
+    font-size: 40px;
+    font-optical-sizing: auto;
+    font-style: normal;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: #f0f0f0; 
+    border-radius: black 10px; 
+    border-bottom: 5px solid black;
+    padding: 20px; 
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); 
+}
+
+.imagenesfoot{
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+    margin-left: 150px;
+    width: 80px;
+    height: 80px;
+}
+
+footer{
+      margin-top: 2500px;
+      border-color: black;
+      border-width: 5px;
+      border-style: solid;
+      background-color: whitesmoke;
+    
+}
+#back{
+    position: sticky;
+    z-index: 3;
+    width: 50px;
+    height: 50px;
+}

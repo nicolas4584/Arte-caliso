@@ -1,0 +1,68 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, sans-serif;
+    background-size: cover;
+    background-image: url(lukas-meier-aAxn9pYE8L0-unsplash.jpg);
+
+}
+
+main {
+    text-align: center;
+    background-color:rgba(255, 228, 181, 0.699);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+label {
+    margin: 10px 0 5px;
+    font-size: 16px;
+    width: 100%;
+    text-align: left;
+}
+
+input {
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+    background-color: #333;
+    border: none;
+    border-radius: 5px;
+}
+
+#back{
+    background-color: white;
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 10px;
+    width: 50px;
+    height: 50px;
+}
+#button1{
+    background-color: transparent;
+}
